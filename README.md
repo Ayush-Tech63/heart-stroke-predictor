@@ -10,7 +10,7 @@ This project was built using Python, Scikit-learn, Pandas, and Streamlit, and de
 
 ## 🚀 Live Deployment
 
-🌐 Deployment Link:
+🌐 Deployment Link:https:https://heart-stroke-predictor-1-bkpyvrtinsurx2avuvxuq5.streamlit.app/
 
 ---
 
